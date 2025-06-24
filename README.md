@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Sharma</h1>
 <h3 align="center">nerd.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ictinus0222&label=Profile%20views&color=0e75b6&style=flat" alt="ictinus0222" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ictinus0222&label=Profile%20views&color=0e75b6&style=flat" alt="ictinus0222" /> </p>
 
 - 🔭 I’m currently working on [Shatranj: Prove your genius!](https://github.com/ictinus0222/Shatranj)
 

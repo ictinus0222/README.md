@@ -15,7 +15,7 @@
 
 - 📝 I also write blogs but **[sometimes i'll start a sentence and i don't even know where it's going...](https://medium.com/@sharmakhil1704)**
 
-- 💬 Ask me about clothing in Succession, my love for The life of Pablo, why nice guys is the greatest comedy movie OAT and my dissapointment for The Last of Us season 2.
+- 💬 Ask me about clothing in Succession, my love for The life of Pablo, why nice guys is the greatest comedy movie OAT and my disapointment for The Last of Us season 2.
 
 - 📄 Wanna hire me? [Here's my Resume!](https://docs.google.com/document/d/1dazSEsDufVEeiywfkHNODpnkiRzqw5WK/) and I don't really mean the nerd thing (I am a professional).
 

@@ -1,33 +1,36 @@
-<h1 align="center">Hey fellow nerd 👋, Nice to meet you</h1>
+<h1 align="left">Hey fellow nerd 👋, Nice to meet you</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ictinus0222&label=Profile%20views&color=0e75b6&style=flat" alt="ictinus0222" /> </p>
+<p>I'm currently an Undergrad learning CS, a #100Devs community member and a 100% Certified Fresh Software Developer.</p>
 
-- 🔭 I’m currently working on [Shatranj: Prove your genius!](https://github.com/ictinus0222/Shatranj)
+- 🔭 My first ever published app that made me fall in love with coding was **[Shatranj: Prove your genius!](https://github.com/ictinus0222/Shatranj)**
+  (P.S. This also was my first **Product Management** Experience)
 
-- 🌱 I’m currently learning **Product Management and Development**
+- 🌱 I’m currently studying **Machine Learning and LLMs for my next BIG Project: SPOTTR AI**
 
-- 👯 I’m looking to collaborate on **Anything!**
+- 👯 I’m looking to collaborate on **anything!**
 
-- 👨‍💻 All of my projects are available at [my website.](https://sharmakhil.netlify.app)
+- 👨‍💻 All of my projects are available at **[my website.](https://sharmakhil.netlify.app)**
 
-- 📝 I regularly write articles on really random stuff...[I compared Sinners and Om Shanti Om](https://medium.com/@sharmakhil1704/when-movies-break-music-genres-ee5e54650e51)
+- 📝 I also write blogs but **[sometimes i'll start a sentence and i don't even know where it's going...](https://medium.com/@sharmakhil1704)**
 
-- 💬 Ask me about **Tech, Brewing and Pop Culture**
+- 💬 Ask me about clothing in Succession, my love for The life of Pablo, why nice guys is the greatest comedy movie OAT and my dissapointment for The Last of Us season 2.
 
-- 📫 How to reach me **[my e-mail](sharmakhil1704@gmail.com)**
+- 📄 Wanna hire me? [Here's my Resume!](https://docs.google.com/document/d/1dazSEsDufVEeiywfkHNODpnkiRzqw5WK/) and I don't really mean the nerd thing (I am a professional).
 
-- 📄 Know about my experiences: [here's my Resume!](https://docs.google.com/document/d/1dazSEsDufVEeiywfkHNODpnkiRzqw5WK/)
+- ⚡ Fun fact **[I have a Podcast too!](https://www.youtube.com/@coffeebrewer-yt)**
 
-- ⚡ Fun fact **[I have a Podcast!](https://www.youtube.com/@coffeebrewer-yt)**
-  
-<div class="tenor-gif-embed" data-postid="13092674" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/office-sentence-funny-quote-the-office-gif-13092674">Office Sentence GIF</a>from <a href="https://tenor.com/search/office-gifs">Office GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
+<a mailto="sharmakhil1704@gmail.com"
 <a href="https://twitter.com/akhil_shar7539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhil_shar7539" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ictinus0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ictinus0222" height="30" width="40" /></a>
+
 <a href="https://instagram.com/@akhilsaysomething" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@akhilsaysomething" height="30" width="40" /></a>
+
 <a href="https://medium.com/@sharmakhil1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sharmakhil1704" height="30" width="40" /></a>
 </p>
 

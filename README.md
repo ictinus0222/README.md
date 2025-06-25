@@ -1,7 +1,10 @@
 <h1 align="left">Hey fellow nerd 👋, Nice to meet you</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ictinus0222&label=Profile%20views&color=0e75b6&style=flat" alt="ictinus0222" /> </p>
+
+<table>
+<tr>
+<td width="65%" valign="top">
 <p>I'm currently an Undergrad learning CS, a #100Devs community member and a 100% Certified Fresh Software Developer.</p>
 
 - 🔭 My first ever published app that made me fall in love with coding was **[Shatranj: Prove your genius!](https://github.com/ictinus0222/Shatranj)**
@@ -21,8 +24,25 @@
 
 - ⚡ Fun fact **[I have a Podcast too!](https://www.youtube.com/@coffeebrewer-yt)**
 
+</td>
+<td width="35%" valign="top">
+  <div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0NTNheW53OHJ0NHU0YW5rbmRxaHk5cnRmbGlybDg1dWVscGNtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x4NiXWYbtcqVcv2giy/giphy.gif" alt="Coding GIF" width="100%"/>
+    <br><br>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0MGM3MDIxZGY2M2EyZTA0YjMyM2U0ZWE3ZWI2ZjIzYmQ5MjU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lDi0/giphy.gif" alt="Kanye West GIF for The Life of Pablo" width="100%"/>
+    <br><br>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmEyN2EwMjczNmNkYTRiZjYwMGI2NTU0YjE2N2E5ZjQ2MGI0MDk4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2zbskZp2j8gSdi/giphy.gif" alt="Succession GIF" width="100%"/>
+  </div>
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🌐 Socials:
+<div align=center>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w3MWV5d2w4Z2QwaXY4NTM5eHVjbHk2ZnQwbHI0M3J0d2Q3MHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6FUCFt5N7Y8gRSInL/giphy.gif" width="25%">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg??style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akhilsaysomething) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg??style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ictinus0222) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sharmakhil1704) 
@@ -30,7 +50,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@coffeebrewer-yt) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmakhil1704@gmail.com) 
 
+</div>
+
+<br>
+
 ## 💻 Tech Stack:
+<div align=center>
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -58,11 +84,23 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ictinus0222&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ictinus0222&theme=catppuccin_latte&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ictinus0222&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk3cWM3c3huNXNhdGE1dnQyYTR6OGVhaXZuZXl0eW9yaGppa3NsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QT9SVRVexMgOk/giphy.gif" width="25%">
+</div>
 
+
+
+<br>
+
+## 📊 Stats:
+<div align="center" style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 16px;">
+  <img src="https://github.r2v.ch/codewars?user=ictinus0222&name=true&top_languages=true&gradient=true&theme=catppuccin_latte" alt="Codewars Stats" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ictinus0222&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0NTNheW53OHJ0NHU0YW5rbmRxaHk5cnRmbGlybDg1dWVscGNtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x4NiXWYbtcqVcv2giy/giphy.gif" alt="Coding GIF" width="50%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ictinus0222&theme=catppuccin_latte&hide_border=true" alt="GitHub Streak Stats" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictinus0222&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false" alt="Top Languages" style="width: 50%;" />
+</div>
+
+<br>
 
 <!--START_SECTION:stats-->
 

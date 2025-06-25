@@ -1,7 +1,7 @@
 <h1 align="center">Hey fellow nerd 👋, Nice to meet you</h1>
 <h3 align="center"></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ictinus0222&label=Profile%20views&color=0e75b6&style=flat" alt="ictinus0222" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ictinus0222&label=Profile%20views&color=0e75b6&style=flat" alt="ictinus0222" /> </p>
 
 - 🔭 I’m currently working on [Shatranj: Prove your genius!](https://github.com/ictinus0222/Shatranj)
 
@@ -20,8 +20,10 @@
 - 📄 Know about my experiences: [here's my Resume!](https://docs.google.com/document/d/1dazSEsDufVEeiywfkHNODpnkiRzqw5WK/)
 
 - ⚡ Fun fact **[I have a Podcast!](https://www.youtube.com/@coffeebrewer-yt)**
-
+  
+<div class="tenor-gif-embed" data-postid="13092674" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/office-sentence-funny-quote-the-office-gif-13092674">Office Sentence GIF</a>from <a href="https://tenor.com/search/office-gifs">Office GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
 <a href="https://twitter.com/akhil_shar7539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhil_shar7539" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ictinus0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ictinus0222" height="30" width="40" /></a>

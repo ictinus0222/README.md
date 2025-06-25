@@ -17,7 +17,7 @@ I'm currently an Undergrad learning CS, a **[100Devs](https://100devs.org/)** co
 
 - 📝 I also write blogs but **[sometimes i'll start a sentence and i don't even know where it's going...](https://medium.com/@sharmakhil1704)**
 
-- 💬 Ask me about clothing in Succession, my love for The life of Pablo, why nice guys is the greatest comedy movie OAT and my disapointment for The Last of Us season 2.
+- 💬 Ask me about clothing in **[Succession](https://www.rottentomatoes.com/tv/succession)**, my love for **[The life of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1?si=HrPx4efzRAexJBGe3Qypyg)**, why **[Nice Guys](https://letterboxd.com/film/the-nice-guys/)** is the greatest comedy movie OAT and why there is only one season of **[The Last of Us](https://thelastofus.fandom.com/wiki/The_Last_of_Us_Wiki)** show to exist for me.
 
 - 📄 Wanna hire me? **[Here's my Resume!](https://docs.google.com/document/d/1dazSEsDufVEeiywfkHNODpnkiRzqw5WK/)** and I don't really mean the nerd thing (I am a professional).
 

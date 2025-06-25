@@ -2,9 +2,8 @@
 <h3 align="center"></h3>
 
 
-<table>
-<tr>
-<td width="65%" valign="top">
+
+
 <p>I'm currently an Undergrad learning CS, a #100Devs community member and a 100% Certified Fresh Software Developer.</p>
 
 - 🔭 My first ever published app that made me fall in love with coding was **[Shatranj: Prove your genius!](https://github.com/ictinus0222/Shatranj)**
@@ -24,24 +23,14 @@
 
 - ⚡ Fun fact **[I have a Podcast too!](https://www.youtube.com/@coffeebrewer-yt)**
 
-</td>
-<td width="35%" valign="top">
-  <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0NTNheW53OHJ0NHU0YW5rbmRxaHk5cnRmbGlybDg1dWVscGNtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x4NiXWYbtcqVcv2giy/giphy.gif" alt="Coding GIF" width="100%"/>
-    <br><br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0MGM3MDIxZGY2M2EyZTA0YjMyM2U0ZWE3ZWI2ZjIzYmQ5MjU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lDi0/giphy.gif" alt="Kanye West GIF for The Life of Pablo" width="100%"/>
-    <br><br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmEyN2EwMjczNmNkYTRiZjYwMGI2NTU0YjE2N2E5ZjQ2MGI0MDk4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2zbskZp2j8gSdi/giphy.gif" alt="Succession GIF" width="100%"/>
-  </div>
-</td>
-</tr>
-</table>
+
+<br>
 
 <br>
 
 ## 🌐 Socials:
 <div align=center>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w3MWV5d2w4Z2QwaXY4NTM5eHVjbHk2ZnQwbHI0M3J0d2Q3MHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6FUCFt5N7Y8gRSInL/giphy.gif" width="25%">
+
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg??style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akhilsaysomething) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg??style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ictinus0222) 
@@ -49,6 +38,8 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sharmakhil22) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@coffeebrewer-yt) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmakhil1704@gmail.com) 
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w3MWV5d2w4Z2QwaXY4NTM5eHVjbHk2ZnQwbHI0M3J0d2Q3MHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6FUCFt5N7Y8gRSInL/giphy.gif" width="25%">
 
 </div>
 
@@ -105,3 +96,5 @@
 <!--START_SECTION:stats-->
 
 <!--END_SECTION:stats-->
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQxMGFwZ3F4ZWt1enNmaHJwYXNpYWVzYm0ycW1maDY0cWhud2h6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZYSUDk0ajJnO/giphy.gif" alt="Coding GIF" width="100%" align="center">

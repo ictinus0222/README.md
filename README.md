@@ -4,7 +4,7 @@
 
 
 
-<p>I'm currently an Undergrad learning CS, a #100Devs community member and a 100% Certified Fresh Software Developer.</p>
+<p>I'm currently an Undergrad learning CS, a [#100Devs](https://100devs.org/) community member and a 100% Certified Fresh Software Developer.</p>
 
 - 🔭 My first ever published app that made me fall in love with coding was **[Shatranj: Prove your genius!](https://github.com/ictinus0222/Shatranj)**
   (P.S. This also was my first **Product Management** Experience)

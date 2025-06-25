@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Generate stats in README
-        uses: teoxoy/profile-readme-stats@v3
+        uses: ictinus0222/profile-readme-stats@v3
         with:
           token: ${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}
           template: './README.md'

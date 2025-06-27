@@ -32,14 +32,31 @@ I'm currently an Undergrad learning CS, a **[100Devs](https://100devs.org/)** co
 <div align=center>
 
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg??style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akhilsaysomething) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg??style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ictinus0222) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sharmakhil1704) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sharmakhil22) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@coffeebrewer-yt) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmakhil1704@gmail.com) 
+<div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w3MWV5d2w4Z2QwaXY4NTM5eHVjbHk2ZnQwbHI0M3J0d2Q3MHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6FUCFt5N7Y8gRSInL/giphy.gif" width="25%">
+  <a href="https://instagram.com/akhilsaysomething">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35">
+  </a>
+  <a href="https://www.linkedin.com/in/ictinus0222">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+  </a>
+  <a href="https://medium.com/@sharmakhil1704">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35">
+  </a>
+  <a href="https://x.com/sharmakhil22">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" height="35">
+  </a>
+  <a href="https://youtube.com/@@coffeebrewer-yt">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35">
+  </a>
+  <a href="mailto:sharmakhil1704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+  </a>
+
+</div>
+
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w3MWV5d2w4Z2QwaXY4NTM5eHVjbHk2ZnQwbHI0M3J0d2Q3MHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6FUCFt5N7Y8gRSInL/giphy.gif" width="35%">
 
 </div>
 

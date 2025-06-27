@@ -19,7 +19,7 @@ jobs:
         uses: ictinus0222/profile-readme-stats@v3
         with:
           # Use a repository secret for your Personal Access Token
-          token: ${{ GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           template: './README.md'
           readme: './README.md'
 

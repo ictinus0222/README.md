@@ -1,21 +1,24 @@
-name: GitHub Metrics
+name: 🧮 Profile Readme Metrics
 
 on:
   schedule:
-    - cron: "30 18 * * *"  # Every day at 12:00 AM IST
+    - cron: '30 18 * * *'  # Every day at 12:00 AM IST
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate GitHub Metrics
+      - name: 📊 Generate Metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.GH_TOKEN }}
           user: akhilsaysomething
-          template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
+          config_timezone: Asia/Kolkata
+          plugin_activity: yes
+          plugin_repositories: yes
+          plugin_repositories_pinned: yes
 
           

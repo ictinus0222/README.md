@@ -147,10 +147,12 @@ I'm currently an Undergrad learning CS, a **[100Devs](https://100devs.org/)** co
 <div align=center>
   
 [![wakatime](https://wakatime.com/badge/user/052906a4-3c1c-4185-82ab-aceffa64da00.svg)](https://wakatime.com/@052906a4-3c1c-4185-82ab-aceffa64da00)
-</div
+
+![Metrics](./metrics.svg)
 
 
- <!--START_SECTION:stats--> 
-<!--END_SECTION:stats-->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQxMGFwZ3F4ZWt1enNmaHJwYXNpYWVzYm0ycW1maDY0cWhud2h6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZYSUDk0ajJnO/giphy.gif" alt="Coding GIF" width="100%">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQxMGFwZ3F4ZWt1enNmaHJwYXNpYWVzYm0ycW1maDY0cWhud2h6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZYSUDk0ajJnO/giphy.gif" alt="Coding GIF" width="100%" align="center">
+
+</div>
+

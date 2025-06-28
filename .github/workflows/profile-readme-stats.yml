@@ -2,7 +2,7 @@ name: Profile Readme Stats
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # Runs at 12:00 AM IST (18:30 UTC)
+    - cron: '30 18 * * *'  # Runs daily at 12:00 AM IST
   workflow_dispatch:
 
 jobs:
@@ -10,24 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Generate stats in README
         uses: ictinus0222/profile-readme-stats@v3
         with:
-          # Use a repository secret for your Personal Access Token
           token: ${{ secrets.GH_TOKEN }}
           template: './README.md'
           readme: './README.md'
+
+      - name: Show README content (debug)
+        run: cat README.md
 
       - name: Commit and push changes
         run: |
           git config user.name 'Akhil Sharma'
           git config user.email 'sharmakhil1704@gmail.com'
           git add README.md
-          # The || true prevents the workflow from failing if there are no changes
           git commit -m 'Update profile stats' || echo "No changes to commit"
           git push

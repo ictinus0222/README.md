@@ -138,7 +138,6 @@ I'm currently an Undergrad learning CS, a **[100Devs](https://100devs.org/)** co
   <img src="https://github-readme-stats.vercel.app/api?username=ictinus0222&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0NTNheW53OHJ0NHU0YW5rbmRxaHk5cnRmbGlybDg1dWVscGNtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x4NiXWYbtcqVcv2giy/giphy.gif" alt="Coding GIF" width="50%"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ictinus0222&theme=catppuccin_latte&hide_border=true" alt="GitHub Streak Stats" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictinus0222&theme=catppuccin_latte&hide_border=true&include_all_commits=false&count_private=false" alt="Top Languages" style="width: 50%;" />
 </div>
 
 <br>
@@ -148,7 +147,6 @@ I'm currently an Undergrad learning CS, a **[100Devs](https://100devs.org/)** co
   
 [![wakatime](https://wakatime.com/badge/user/052906a4-3c1c-4185-82ab-aceffa64da00.svg)](https://wakatime.com/@052906a4-3c1c-4185-82ab-aceffa64da00)
 
-![Metrics](./metrics.svg)
 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQxMGFwZ3F4ZWt1enNmaHJwYXNpYWVzYm0ycW1maDY0cWhud2h6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZYSUDk0ajJnO/giphy.gif" alt="Coding GIF" width="100%">

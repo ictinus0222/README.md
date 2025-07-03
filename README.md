@@ -53,12 +53,10 @@ I'm currently an Undergrad learning CS, a **[100Devs](https://100devs.org/)** co
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
 
+<div>
+  <img src="https://github.com/user-attachments/assets/01958292-a634-46c8-98f7-2aaca8a6c604" style="width: 30%;">
 </div>
 
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w3MWV5d2w4Z2QwaXY4NTM5eHVjbHk2ZnQwbHI0M3J0d2Q3MHFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y6FUCFt5N7Y8gRSInL/giphy.gif" width="35%">
-
-</div>
 
 <br>
 
